@@ -1,4 +1,4 @@
-# wiki_MH-Z19C_Sensor
+# MH-Z19C Sensor
 
 ## Obsah
 - [Popis snímača](#Popis-snímača)
